@@ -1,12 +1,11 @@
 <?php
 /*
  * Plugin Name: Post icon
- * Plugin URI:  
+ * Plugin URI: https://github.com/VladimirMorozov1994/Post-icon
  * Description: WordPress plugin that adds an icon to the end of the post titles specified in the plugin settings.
  * Version: 1.0.0
  * Author: Vladimir Morozov 
  */
- 
 // If this file is called directly, abort.
 if ( ! defined( 'WPINC' ) ) {
     die;

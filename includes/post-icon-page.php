@@ -1,4 +1,4 @@
-<?php 
+<?php
 /**
  * Creates the AdminMenu item for the plugin.
  *
@@ -56,4 +56,3 @@ public function add_options_page() {
    
 }
 }
-?>  
